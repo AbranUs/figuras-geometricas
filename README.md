@@ -1,5 +1,5 @@
 # Figuras Geometricas
 ## Desarrollador
-| Apellidos y nombres |
-| --- |
-|      |
+| Apellidos y nombres          |
+|------------------------------|
+| Uscuvilca Ramos Abraham Luis |
